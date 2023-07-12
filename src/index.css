@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,500;1,400;1,500&display=swap'); */
+
+body {
+  margin: 0;
+  /* font-family: 'Noto Sans', sans-serif,'prompt',  */
+  font-family: "Light";  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+@font-face {
+  font-family: 'Light';
+  src:  url('./fonts/ANGSA.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Angsa-bold';
+  src:  url('./fonts/ANGSA.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bold';
+  font-weight: 27px;
+  src:  url('./fonts/angsab.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'cordia-light';
+  font-weight: 13px;
+  src:url('./fonts/CORDIA.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'cordiaupc-bold';
+  font-weight: 14px;
+  src:url('./fonts/cordiaub.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'cordia-bold';
+  src: url('./fonts/CordiaNewBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'arial-bold';
+  src: url('./fonts/Arial-bold.ttf') format('truetype');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

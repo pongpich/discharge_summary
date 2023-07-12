@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/patienttransfer/static/css/main.4f77be2d.css",
+    "main.js": "/patienttransfer/static/js/main.ab7fd877.js",
+    "static/media/Arial-bold.ttf": "/patienttransfer/static/media/Arial-bold.ff5427169c7aaacb3946.ttf",
+    "static/media/Ramlogo.png": "/patienttransfer/static/media/Ramlogo.9da4f1c7a22a1b0def6f.png",
+    "static/media/ANGSA.ttf": "/patienttransfer/static/media/ANGSA.b8e3817fe5ec314a7d17.ttf",
+    "static/media/CORDIA.ttf": "/patienttransfer/static/media/CORDIA.b1ddf3d930e781b74ab8.ttf",
+    "static/media/cordiaub.ttf": "/patienttransfer/static/media/cordiaub.ebf4c8b18d08367dd838.ttf",
+    "static/media/angsab.ttf": "/patienttransfer/static/media/angsab.e9597f8f9d4970b11760.ttf",
+    "static/media/CordiaNewBold.ttf": "/patienttransfer/static/media/CordiaNewBold.f9e757dd128e3721fd87.ttf",
+    "index.html": "/patienttransfer/index.html",
+    "main.4f77be2d.css.map": "/patienttransfer/static/css/main.4f77be2d.css.map",
+    "main.ab7fd877.js.map": "/patienttransfer/static/js/main.ab7fd877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f77be2d.css",
+    "static/js/main.ab7fd877.js"
+  ]
+}
